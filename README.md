@@ -38,17 +38,23 @@ This Java application allows you to view, manipulate, and explore images. You ca
 
 ## Screenshots
 
-!Screenshot 1
+![Overview of GUI](https://github.com/PayamDivsalar/ImageViewer/blob/main/Images/Screenshot%20from%202024-06-01%2000-48-21.png))
+*first page.*
+
+(https://github.com/PayamDivsalar/ImageViewer/blob/main/Images/Screenshot%20from%202024-06-01%2000-48-37.png)
 *Choose an image from your files.*
 
-!Screenshot 2
+(https://github.com/PayamDivsalar/ImageViewer/blob/main/Images/Screenshot%20from%202024-06-01%2000-48-58.png)
 *View the selected image.*
 
-!Screenshot 3
+!(https://github.com/PayamDivsalar/ImageViewer/blob/main/Images/Screenshot%20from%202024-06-01%2000-50-11.png)
 *Grayscale conversion.*
 
-!Screenshot 4
+(https://github.com/PayamDivsalar/ImageViewer/blob/main/Images/Screenshot%20from%202024-06-01%2000-50-01.png)
 *Resize the image.*
+
+(https://github.com/PayamDivsalar/ImageViewer/blob/main/Images/Screenshot%20from%202024-06-01%2000-49-33.png)
+*change brightness of the image.*
 
 
 

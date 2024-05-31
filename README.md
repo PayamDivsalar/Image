@@ -41,7 +41,7 @@ This Java application allows you to view, manipulate, and explore images. You ca
 <div align ="center">
 
 
-![](https://github.com/PayamDivsalar/ImageViewer/blob/main/Images/Screenshot%20from%202024-06-01%2000-48-21.png))
+![](https://github.com/PayamDivsalar/ImageViewer/blob/main/Images/Screenshot%20from%202024-06-01%2000-48-21.png)
 **First Page.**
 
 ![](https://github.com/PayamDivsalar/ImageViewer/blob/main/Images/Screenshot%20from%202024-06-01%2000-48-37.png)

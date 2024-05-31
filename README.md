@@ -41,28 +41,24 @@ This Java application allows you to view, manipulate, and explore images. You ca
 <div align ="center">
 
 
-![First page](https://github.com/PayamDivsalar/ImageViewer/blob/main/Images/Screenshot%20from%202024-06-01%2000-48-21.png))
+![](https://github.com/PayamDivsalar/ImageViewer/blob/main/Images/Screenshot%20from%202024-06-01%2000-48-21.png))
 **First Page.**
 
-![First page](https://github.com/PayamDivsalar/ImageViewer/blob/main/Images/Screenshot%20from%202024-06-01%2000-48-37.png)
+![](https://github.com/PayamDivsalar/ImageViewer/blob/main/Images/Screenshot%20from%202024-06-01%2000-48-37.png)
 **Choose an image from your files.**
 
-![First page](https://github.com/PayamDivsalar/ImageViewer/blob/main/Images/Screenshot%20from%202024-06-01%2000-48-58.png)
+![](https://github.com/PayamDivsalar/ImageViewer/blob/main/Images/Screenshot%20from%202024-06-01%2000-48-58.png)
 **View the selected image.**
 
-![First page](https://github.com/PayamDivsalar/ImageViewer/blob/main/Images/Screenshot%20from%202024-06-01%2000-50-11.png)
+![](https://github.com/PayamDivsalar/ImageViewer/blob/main/Images/Screenshot%20from%202024-06-01%2000-50-11.png)
 **Grayscale conversion.**
 
-![First page](https://github.com/PayamDivsalar/ImageViewer/blob/main/Images/Screenshot%20from%202024-06-01%2000-50-01.png)
+![](https://github.com/PayamDivsalar/ImageViewer/blob/main/Images/Screenshot%20from%202024-06-01%2000-50-01.png)
 **Resize the image.**
 
-![First page](https://github.com/PayamDivsalar/ImageViewer/blob/main/Images/Screenshot%20from%202024-06-01%2000-49-33.png)
+![](https://github.com/PayamDivsalar/ImageViewer/blob/main/Images/Screenshot%20from%202024-06-01%2000-49-33.png)
 **Change brightness of the image.**
 </div>
-
-
-Happy image viewing! 📷🎨
-
 
 
 Happy image viewing! 📷🎨
